@@ -1,0 +1,42 @@
+h1{
+    text-align:center;
+    text-transform: capitalize;
+    color: 325288;
+}
+body{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(14,174,87,1) 0%, rgba(12,116,117,1) 90% );
+}
+p{
+    font-size: 25px;
+    text-align: center;
+    color: #2F3A8F;
+}
+table{
+    width: 100%;
+    border: 3px solid #130801;
+    
+    background-color: #039488;
+}
+
+table th{
+    border: 1px solid #010508;
+   
+    padding: 15px;
+    color:black;
+    text-transform: capitalize;
+    font-size: 20px;
+    background-color: rgb(201, 19, 19);
+
+}
+
+table  td{
+    border: 1px solid #bb1903;
+    
+    padding: 5px;
+    color:#8f130a;
+}
+
+table tr{
+    border:1px solid;
+    padding: 15px;
+}
